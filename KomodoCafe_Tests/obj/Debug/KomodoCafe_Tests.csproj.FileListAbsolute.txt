@@ -1,0 +1,16 @@
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\bin\Debug\KomodoCafe_Tests.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\bin\Debug\KomodoCafe_Tests.pdb
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\bin\Debug\KomodoCafe_ClassLibrary.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\bin\Debug\KomodoCafe_ClassLibrary.pdb
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\obj\Debug\KomodoCafe_Tests.csprojAssemblyReference.cache
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\obj\Debug\KomodoCafe_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\obj\Debug\KomodoCafe_Tests.csproj.CopyComplete
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\obj\Debug\KomodoCafe_Tests.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe_Tests\obj\Debug\KomodoCafe_Tests.pdb

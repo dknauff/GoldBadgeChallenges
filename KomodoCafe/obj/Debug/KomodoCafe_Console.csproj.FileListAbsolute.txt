@@ -1,0 +1,10 @@
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe\bin\Debug\KomodoCafe.exe.config
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe\bin\Debug\KomodoCafe.exe
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe\bin\Debug\KomodoCafe.pdb
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe\obj\Debug\KomodoCafe_Console.csprojAssemblyReference.cache
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe\obj\Debug\KomodoCafe_Console.csproj.CoreCompileInputs.cache
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe\obj\Debug\KomodoCafe.exe
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe\obj\Debug\KomodoCafe.pdb
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe\bin\Debug\KomodoCafe_ClassLibrary.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe\bin\Debug\KomodoCafe_ClassLibrary.pdb
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\GoldBadgeChallenges\KomodoCafe\obj\Debug\KomodoCafe_Console.csproj.CopyComplete
