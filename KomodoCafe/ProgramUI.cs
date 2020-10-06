@@ -72,9 +72,9 @@ namespace KomodoCafe
             if (item != null)
             {
                 Console.WriteLine($"{item.MealNumber}: {item.MealName} \n" +
-                                $"{item.MealDescription} \n" +
-                                $"{item.Ingredients} \n" +
-                                $"{item.Price} \n");
+                                $"Description: {item.MealDescription} \n" +
+                                $"Ingredients: {item.Ingredients} \n" +
+                                $"Price (USD): {item.Price} \n");
             }
             else
             {
