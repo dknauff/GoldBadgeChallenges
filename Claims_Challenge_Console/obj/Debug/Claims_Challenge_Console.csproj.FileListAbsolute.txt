@@ -1,0 +1,10 @@
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge\bin\Debug\Claims_Challenge.exe.config
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge\bin\Debug\Claims_Challenge.exe
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge\bin\Debug\Claims_Challenge.pdb
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge\obj\Debug\Claims_Challenge_Console.csprojAssemblyReference.cache
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge\obj\Debug\Claims_Challenge_Console.csproj.CoreCompileInputs.cache
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge\obj\Debug\Claims_Challenge.exe
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge\obj\Debug\Claims_Challenge.pdb
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge\bin\Debug\Claims_Challenge_ClassLibrary.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge\bin\Debug\Claims_Challenge_ClassLibrary.pdb
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge\obj\Debug\Claims_Challenge_Console.csproj.CopyComplete

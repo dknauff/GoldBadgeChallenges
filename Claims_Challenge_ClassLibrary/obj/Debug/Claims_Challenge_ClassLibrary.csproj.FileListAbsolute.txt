@@ -1,0 +1,6 @@
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge_ClassLibrary\bin\Debug\Claims_Challenge_ClassLibrary.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge_ClassLibrary\bin\Debug\Claims_Challenge_ClassLibrary.pdb
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge_ClassLibrary\obj\Debug\Claims_Challenge_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge_ClassLibrary\obj\Debug\Claims_Challenge_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge_ClassLibrary\obj\Debug\Claims_Challenge_ClassLibrary.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\Claims_Challenge\Claims_Challenge_ClassLibrary\obj\Debug\Claims_Challenge_ClassLibrary.pdb
