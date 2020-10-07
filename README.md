@@ -32,7 +32,7 @@ known issues: does not edit existing badges with the "2) Edit a badge" menu opti
 Resources:
 https://docs.microsoft.com/en-us/dotnet/csharp/
 https://www.w3schools.com/
-tutorialspoint.com/csharp/csharp_data_types.htm
+https://tutorialspoint.com/csharp/csharp_data_types.htm
 
 Developer:
 Danny Knauff
