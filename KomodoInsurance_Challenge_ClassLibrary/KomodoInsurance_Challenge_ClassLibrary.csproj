@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DE2D5D77-F10F-4F45-AB51-6509A4E7E9F9}</ProjectGuid>
+    <ProjectGuid>{64581D79-C41E-4F0A-86C3-AA01D9526F66}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>KomodoInsurance_Challenge_ClassLibrary</RootNamespace>

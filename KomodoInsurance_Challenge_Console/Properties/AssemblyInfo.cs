@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("KomodoInsurance_Challenge")]
+[assembly: AssemblyTitle("KomodoInsurance_Challenge_Console")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("KomodoInsurance_Challenge")]
+[assembly: AssemblyProduct("KomodoInsurance_Challenge_Console")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1cdefcc4-a22e-44c9-abb4-63577f8ee8c9")]
+[assembly: Guid("26b41aab-ea60-43ec-8503-7cbaf220b1c9")]
 
 // Version information for an assembly consists of the following four values:
 //

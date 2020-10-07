@@ -151,7 +151,7 @@ namespace KomodoInsurance_Challenge
                 Console.WriteLine($"----------------- \n" +
                     $"Badge Number: \n" +
                     $"{ badge.Key} \n" +
-                    $"Accessible Doors:");
+                    $"\nAccessible Doors:");
 
                 foreach (string value in badge.Value)
                 {

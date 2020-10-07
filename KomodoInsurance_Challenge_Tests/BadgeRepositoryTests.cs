@@ -23,7 +23,7 @@ namespace KomodoInsurance_Challenge_Tests
         public void GetAllBadges_ShouldReturnCorrectCollection()
         {
             Dictionary<int, List<string>> badgeDictionary = new Dictionary<int, List<string>>();
-            
+
             badgeDictionary.Add(42345, new List<string> { "A4", "A5" });
 
             bool dictionaryHasBadges = badgeDictionary.ContainsKey(42345);

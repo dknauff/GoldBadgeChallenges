@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{44162166-9A28-412C-A98D-4866734C74B9}</ProjectGuid>
+    <ProjectGuid>{31F2D6F6-78BA-42E0-92CF-22164C9B43D4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>KomodoInsurance_Challenge_Tests</RootNamespace>
@@ -57,7 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\KomodoInsurance_Challenge_ClassLibrary\KomodoInsurance_Challenge_ClassLibrary.csproj">
-      <Project>{DE2D5D77-F10F-4F45-AB51-6509A4E7E9F9}</Project>
+      <Project>{64581D79-C41E-4F0A-86C3-AA01D9526F66}</Project>
       <Name>KomodoInsurance_Challenge_ClassLibrary</Name>
     </ProjectReference>
   </ItemGroup>
